@@ -9,4 +9,5 @@ def inches_to_mm(inces):
     mm = inches * 25.4
     return mm
 
-# ToDo(Adam): Add function
+<<<<<<< HEAD
+# ToDo(BOSS) : Hire a new Developer
